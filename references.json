@@ -1,0 +1,35 @@
+{
+    "online-references": [
+        {
+            "url": "https://msnglnk.com/product/the-beer-game/",
+            "contribution": "window Background image",
+            "file": "background-login-1.png"
+        },
+        {
+            "url": "http://kolon.geologypu.org/party-images-background/",
+            "contribution": "window Background image",
+            "file": "background.png"
+        },
+        {
+            "title": "http://www.doxygen.nl/manual/starting.html",
+            "contribution": "Doxygen",
+            "file": "Doxygen.in"
+        },
+        {
+            "url": "https://doc.qt.io/qt-5/cmake-manual.html",
+            "contribution": "CMake file",
+            "file": "CMakeLists.txt"
+        },
+        {
+            "url": "https://vicrucann.github.io/tutorials/quick-cmake-doxygen/",
+            "contribution": "Doxygen",
+            "file": "docs/CMakeLists.txt"
+        },
+        {
+            "url": "https://wiki.qt.io/WIP-How_to_create_a_simple_chat_application#The_Single_Thread_Server",
+            "contribution": "Code for server and client",
+            "file": "src/server/ and src/client code"
+        }
+    ]
+    
+}
