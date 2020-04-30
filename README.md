@@ -44,5 +44,4 @@ Now, three executables are available:
 #### Client:
 ![Client screenshot](readme-assets/client.png)
 
-[@1be6-ankit](https://github.com/1be6-ankit)
 [@AYUSH477](https://github.com/AYUSH477)
